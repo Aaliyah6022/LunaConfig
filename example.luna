@@ -1,0 +1,17 @@
+-- This is a comment
+$person
+firstName: "Luna"
+lastName: "Lynx"
+age: 21
+address: {
+    streetAddress: "Sunflower Main St."
+    city: "Anytown"
+    state: "CA"
+    postalCode: "12345"
+}
+phoneNumbers: ["5551234", "5555678"]
+
+$colors
+primary: "red"
+secondary: "blue"
+tertiary: "green"
